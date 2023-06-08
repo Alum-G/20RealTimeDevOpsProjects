@@ -1,10 +1,10 @@
 Lets Get Started!
 
 ### Prerequisites / Tools Used
-Vagrant
-MariaDB
-MySQL
-JDK
+Vagrant<br>
+MariaDB<br>
+MySQL<br>
+JDK<br>
 
 Clone the Github repository to local machine <br>
 ```git clone https://github.com/devopshydclub/vprofile-project```
